@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram id="oW3MnLp_1cMdnGVnwum1" name="Page-1">
-    <mxGraphModel dx="1733" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,7 +578,7 @@
           <mxGeometry x="2308" y="2370" width="1645" height="1057" as="geometry" />
         </mxCell>
         <mxCell id="ODBSUiGh3ZAoTuw6bG3W-14" value="技术栈组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1043" y="2370" width="1245" height="1057" as="geometry" />
+          <mxGeometry x="1023.2" y="2350" width="1245" height="1057" as="geometry" />
         </mxCell>
         <mxCell id="ODBSUiGh3ZAoTuw6bG3W-15" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="4223" width="3235" height="228" as="geometry" />
