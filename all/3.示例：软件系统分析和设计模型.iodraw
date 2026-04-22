@@ -17,9 +17,6 @@
             <mxPoint x="280" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MKCzWIRwI4Zgw65z_sEB-178" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;rotation=-90;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="462" y="1990" width="284" height="383.5" as="geometry" />
-        </mxCell>
         <mxCell id="MKCzWIRwI4Zgw65z_sEB-198" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="938.27" y="2270" width="59.52" height="50" as="geometry" />
         </mxCell>
@@ -75,7 +72,7 @@
           <mxGeometry x="2308" y="2370" width="1645" height="1057" as="geometry" />
         </mxCell>
         <mxCell id="ODBSUiGh3ZAoTuw6bG3W-14" value="技术栈组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1023.2" y="2350" width="1245" height="1057" as="geometry" />
+          <mxGeometry x="1023" y="2370" width="1245" height="1057" as="geometry" />
         </mxCell>
         <mxCell id="ODBSUiGh3ZAoTuw6bG3W-15" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="4223" width="3235" height="228" as="geometry" />
