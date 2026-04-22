@@ -17,21 +17,6 @@
             <mxPoint x="280" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MKCzWIRwI4Zgw65z_sEB-198" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="938.27" y="2270" width="59.52" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MKCzWIRwI4Zgw65z_sEB-199" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1014.6999999999999" y="2270" width="59.52" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MKCzWIRwI4Zgw65z_sEB-214" value="实验室管理" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="449.5" y="2280" width="80.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MKCzWIRwI4Zgw65z_sEB-215" value="仿真设备管理" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="552" y="2280" width="98" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MKCzWIRwI4Zgw65z_sEB-217" value="师资管理" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="664" y="2286.5" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ODBSUiGh3ZAoTuw6bG3W-1" value="核心实体类与DTO/VO" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="2395" width="334" height="1007" as="geometry" />
         </mxCell>
